@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabelLibrary", "BabelLibrary\BabelLibrary.csproj", "{DDE2C6F8-E847-4F69-8CD7-715069D60BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE2C6F8-E847-4F69-8CD7-715069D60BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE2C6F8-E847-4F69-8CD7-715069D60BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE2C6F8-E847-4F69-8CD7-715069D60BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE2C6F8-E847-4F69-8CD7-715069D60BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043A3031-230E-48E3-8EC7-C6BD25B14420}
+	EndGlobalSection
+EndGlobal
